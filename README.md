@@ -1,6 +1,4 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://mdShahbazUddin1.io)
-
-<h1 align="center">Hi 👋, I'm Shahbaz Uddin</h1>
+<h1 align="center">Hi there👋, I'm Shahbaz Uddin</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
 
