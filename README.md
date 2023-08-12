@@ -10,8 +10,7 @@
 - 👯 I’m looking to collaborate on **Full-Stack Web Apps**
 
 - 💬 Ask me about **anything either I'll recall or I'll learn**
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shahbaz-uddin-480604265/)
+## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shahbaz-uddin-480604265/)
 
  My Portfolio : *[mdShahbazUddin1.github.io](https://mdShahbazUddin1.github.io/)*
 - 📫 How to reach me **jackayron5@gmail.com**
