@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Shahbaz Uddin</h1>
-<h3 align="start">As a MERN Stack Developer, I love building cool stuff for the web using MongoDB, Express.js, React, and Node.js. It's not just a job; it's my passion. I enjoy solving problems and making things that people can use. Working at a company that values great products would be a dream come true because I want to keep learning and making awesome things on the web.</h3>
+<h4 align="start">As a MERN Stack Developer, I love building cool stuff for the web using MongoDB, Express.js, React, and Node.js. It's not just a job; it's my passion. I enjoy solving problems and making things that people can use. Working at a company that values great products would be a dream come true because I want to keep learning and making awesome things on the web.</h4>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="mdshahbazuddin1" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshahbazuddin1&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahbazuddin1" /> </p>
 
