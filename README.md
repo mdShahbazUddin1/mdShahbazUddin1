@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="mdshahbazuddin1" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshahbazuddin1&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahbazuddin1" /> </p>
 
-- 🔭 I’m currently working on **Data Structures and Algorithm**
+- 🔭 I’m currently working on **Mern**
 
-- 🌱 I’m currently learning **Node-Js**
+- 🌱 I’m currently learning **React-Native**
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Apps**
 
