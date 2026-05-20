@@ -47,8 +47,3 @@
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
-<p><img width="500" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshahbazuddin1&show_icons=true&locale=en&layout=compact" alt="mdshahbazuddin1" /></p>
-
-<p>&nbsp;<img width="500" align="left" src="https://github-readme-stats.vercel.app/api?username=mdshahbazuddin1&show_icons=true&locale=en" alt="mdshahbazuddin1" /></p>
-
-<p><img width="500" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahbazuddin1&" alt="mdshahbazuddin1" /></p>
